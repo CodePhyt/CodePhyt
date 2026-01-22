@@ -335,21 +335,71 @@ const codephyt: DeveloperProfile = {
 <!-- Strategic Focus Matrix -->
 ## 🎯 Current Strategic Focus
 
-<div align="center">
+<!-- Strategic Focus Matrix -->
+## 🎯 Current Strategic Focus
 
-| **🏗️ Systems Architecture** | **🤖 AI/ML Engineering** |
-|:---:|:---:|
-| ![Microservices](https://img.shields.io/badge/Microservices-Scalability-00D9FF?style=for-the-badge&logo=kubernetes&logoColor=black) | ![Agents](https://img.shields.io/badge/AI_Agents-Frameworks-FFB454?style=for-the-badge&logo=robotframework&logoColor=black) |
-| ![Cloud Native](https://img.shields.io/badge/Cloud_Native-Solutions-00D9FF?style=for-the-badge&logo=googlecloud&logoColor=black) | ![LLMs](https://img.shields.io/badge/LLM-Fine_Tuning-FFB454?style=for-the-badge&logo=openai&logoColor=black) |
-| ![Self Healing](https://img.shields.io/badge/Self_Healing-Systems-00D9FF?style=for-the-badge&logo=prometheus&logoColor=black) | ![RAG](https://img.shields.io/badge/RAG-Systems-FFB454?style=for-the-badge&logo=nvidia&logoColor=black) |
-
-| **🚀 Enterprise Solutions** | **💻 Open Source** |
-|:---:|:---:|
-| ![Enterprise](https://img.shields.io/badge/Enterprise-GDPR_Ready-FF6D00?style=for-the-badge&logo=fortinet&logoColor=white) | ![Tools](https://img.shields.io/badge/Building-Dev_Tools-9F7AEA?style=for-the-badge&logo=github&logoColor=white) |
-| ![Consulting](https://img.shields.io/badge/Consulting-Architecture-FF6D00?style=for-the-badge&logo=awsorganizations&logoColor=white) | ![Community](https://img.shields.io/badge/Community-Leadership-9F7AEA?style=for-the-badge&logo=discord&logoColor=white) |
-| ![Production](https://img.shields.io/badge/Production-Grade-FF6D00?style=for-the-badge&logo=nginx&logoColor=white) | ![Education](https://img.shields.io/badge/Knowledge-Sharing-9F7AEA?style=for-the-badge&logo=gitbook&logoColor=white) |
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="left" width="50%" valign="top">
+      <h3>&nbsp;🏗️ Software Architecture</h3>
+      <ul>
+        <li><code>Autonomous Systems Design</code></li>
+        <li><code>Microservices & Scalability</code></li>
+        <li><code>Cloud-Native Solutions</code></li>
+        <li><code>Self-Healing Architectures</code></li>
+      </ul>
+    </td>
+    <td align="left" width="50%" valign="top">
+      <h3>&nbsp;🤖 AI/ML Engineering</h3>
+      <ul>
+        <li><code>Agent Framework Development</code></li>
+        <li><code>LLM Integration & Fine-tuning</code></li>
+        <li><code>Agentic Workflows</code></li>
+        <li><code>GDPR-Compliant AI</code></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%" valign="top">
+      <h3>&nbsp;🎬 Content Creation</h3>
+      <ul>
+        <li><code>YouTube Tutorials</code></li>
+        <li><code>Technical Documentation</code></li>
+        <li><code>Community Building</code></li>
+        <li><code>Knowledge Sharing</code></li>
+      </ul>
+    </td>
+    <td align="left" width="50%" valign="top">
+      <h3>&nbsp;💻 Open Source</h3>
+      <ul>
+        <li><code>Contributing to Major Projects</code></li>
+        <li><code>Building Developer Tools</code></li>
+        <li><code>Maintaining 155+ Repositories</code></li>
+        <li><code>Community Leadership</code></li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%" valign="top">
+      <h3>&nbsp;📚 Continuous Learning</h3>
+      <ul>
+        <li><code>Advanced Algorithms</code></li>
+        <li><code>DevOps Mastery</code></li>
+        <li><code>Blockchain Development</code></li>
+        <li><code>AI Agent Systems</code></li>
+      </ul>
+    </td>
+    <td align="left" width="50%" valign="top">
+      <h3>&nbsp;🚀 Enterprise Solutions</h3>
+      <ul>
+        <li><code>KI-Solutions Organization</code></li>
+        <li><code>Production-Grade Systems</code></li>
+        <li><code>Client Implementations</code></li>
+        <li><code>Consulting & Architecture</code></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
