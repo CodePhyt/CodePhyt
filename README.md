@@ -5,9 +5,9 @@
 
 <br/>
 
-<!-- Elite Typing Animation -->
+<!-- Elite Typing Animation (Revised & Optimized) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=🚀+Autonomous+Systems+Architect;🎥+Tech+Content+Creator+%40CodePhyt;💻+Full-Stack+Engineer+%7C+155%2B+Repositories;🤖+AI+Agent+Developer+%7C+Open+Source+Advocate;⚡+Building+Production-Grade+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FFCC&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=80&lines=🚀+Autonomous+Systems+Architect;🎥+Tech+Content+Creator+%40CodePhyt;💻+Full-Stack+Engineer+%7C+155%2B+Repositories;🤖+AI+Agent+Systems+%26+Automation;⚡+Powered+by+Antigravity+%2B+Gemini+%2B+Kiro" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -71,6 +71,8 @@ interface DeveloperProfile {
       "🔮 Claude Projects (Architecture Design)",
       "💻 VS Code (Classic Development)"
     ];
+    // The Ultimate Tech Stack
+    poweredBy: "Antigravity + Gemini + Kiro + Claude"; 
     workflow: "AI-Augmented Development with Multi-Agent Systems";
     philosophy: "Clean Architecture • Scalable Systems • Continuous Innovation";
   };
