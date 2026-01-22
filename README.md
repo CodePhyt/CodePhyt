@@ -5,12 +5,7 @@
 
 <br/>
 
-<!-- Elite Typing Animation (Revised & Optimized) -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FFCC&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=80&lines=🚀+Autonomous+Systems+Architect;🎥+Tech+Content+Creator+%40CodePhyt;💻+Full-Stack+Engineer+%7C+155%2B+Repositories;🤖+AI+Agent+Systems+%26+Automation;⚡+Powered+by+Antigravity+%2B+Gemini+%2B+Kiro" alt="Typing SVG" />
-</a>
 
-<br/>
 
 <!-- Elite Bio Statement -->
 <p align="center">
@@ -468,12 +463,7 @@ mindmap
 
 ---
 
-<!-- Visitor Stats -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=CodePhyt&label=Total%20Profile%20Visits&color=00d9ff&icon=5&pretty=true" alt="Visit Counter"/>
-</p>
 
-<br/>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65&desc=⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful!&descSize=14&descAlignY=85"/>
