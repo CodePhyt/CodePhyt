@@ -332,43 +332,24 @@ const codephyt: DeveloperProfile = {
 
 ---
 
-<!-- Strategic Focus Mindmap -->
+<!-- Strategic Focus Matrix -->
 ## 🎯 Current Strategic Focus
 
-```mermaid
-mindmap
-  root((CodePhyt<br/>2026))
-    🏗️ Software Architecture
-      Autonomous Systems Design
-      Microservices & Scalability
-      Cloud-Native Solutions
-      Self-Healing Architectures
-    🤖 AI/ML Engineering
-      Agent Framework Development
-      LLM Integration & Fine-tuning
-      Agentic Workflows
-      GDPR-Compliant AI
-    🎬 Content Creation
-      YouTube Tutorials
-      Technical Documentation
-      Community Building
-      Knowledge Sharing
-    💻 Open Source
-      Contributing to Major Projects
-      Building Developer Tools
-      Maintaining 155+ Repositories
-      Community Leadership
-    📚 Continuous Learning
-      Advanced Algorithms
-      DevOps Mastery
-      Blockchain Development
-      AI Agent Systems
-    🚀 Enterprise Solutions
-      KI-Solutions Organization
-      Production-Grade Systems
-      Client Implementations
-      Consulting & Architecture
-```
+<div align="center">
+
+| **🏗️ Systems Architecture** | **🤖 AI/ML Engineering** |
+|:---:|:---:|
+| ![Microservices](https://img.shields.io/badge/Microservices-Scalability-00D9FF?style=for-the-badge&logo=kubernetes&logoColor=black) | ![Agents](https://img.shields.io/badge/AI_Agents-Frameworks-FFB454?style=for-the-badge&logo=robotframework&logoColor=black) |
+| ![Cloud Native](https://img.shields.io/badge/Cloud_Native-Solutions-00D9FF?style=for-the-badge&logo=googlecloud&logoColor=black) | ![LLMs](https://img.shields.io/badge/LLM-Fine_Tuning-FFB454?style=for-the-badge&logo=openai&logoColor=black) |
+| ![Self Healing](https://img.shields.io/badge/Self_Healing-Systems-00D9FF?style=for-the-badge&logo=prometheus&logoColor=black) | ![RAG](https://img.shields.io/badge/RAG-Systems-FFB454?style=for-the-badge&logo=nvidia&logoColor=black) |
+
+| **🚀 Enterprise Solutions** | **💻 Open Source** |
+|:---:|:---:|
+| ![Enterprise](https://img.shields.io/badge/Enterprise-GDPR_Ready-FF6D00?style=for-the-badge&logo=fortinet&logoColor=white) | ![Tools](https://img.shields.io/badge/Building-Dev_Tools-9F7AEA?style=for-the-badge&logo=github&logoColor=white) |
+| ![Consulting](https://img.shields.io/badge/Consulting-Architecture-FF6D00?style=for-the-badge&logo=awsorganizations&logoColor=white) | ![Community](https://img.shields.io/badge/Community-Leadership-9F7AEA?style=for-the-badge&logo=discord&logoColor=white) |
+| ![Production](https://img.shields.io/badge/Production-Grade-FF6D00?style=for-the-badge&logo=nginx&logoColor=white) | ![Education](https://img.shields.io/badge/Knowledge-Sharing-9F7AEA?style=for-the-badge&logo=gitbook&logoColor=white) |
+
+</div>
 
 <br/>
 
