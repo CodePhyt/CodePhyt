@@ -7,7 +7,7 @@
 
 <!-- Elite Typing Animation (Revised & Optimized) -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=33FFCC&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=80&lines=🚀+Autonomous+Systems+Architect;🎥+Tech+Content+Creator+%40CodePhyt;💻+Full-Stack+Engineer+%7C+155%2B+Repositories;🤖+AI+Agent+Systems+%26+Automation;⚡+Powered+by+Antigravity+%2B+Gemini+%2B+Kiro" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=700&height=70&lines=Autonomous+Systems+Architect+%F0%9F%9A%80;Tech+Content+Creator+%40CodePhyt+%F0%9F%8E%A5;Full-Stack+Engineer+%7C+155%2B+Repos+%F0%9F%92%BB;AI+Agent+Systems+%26+Automation+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -470,7 +470,7 @@ mindmap
 
 <!-- Visitor Stats -->
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=CodePhyt&label=Total%20Profile%20Visits&color=00d9ff&icon=5&pretty=true" alt="Visit Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=CodePhyt-Footer&label=Total%20Profile%20Visits&color=00d9ff&style=for-the-badge&labelColor=000000" alt="Visit Counter"/>
 </p>
 
 <br/>
