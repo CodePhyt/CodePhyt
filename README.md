@@ -211,29 +211,12 @@ const codephyt: DeveloperProfile = {
 ## 📊 Engineering Performance Metrics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodePhyt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodePhyt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&rank_icon=github" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodePhyt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodePhyt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook,html&exclude_repo=bolt.diy" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=CodePhyt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="Contribution Stats"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodePhyt&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph"/>
-</p>
-
-<br/>
-
----
-
-<!-- Trophy Showcase -->
-## 🏆 GitHub Achievement System
-
-<p align="center">
-  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=CodePhyt&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=6&margin-w=10&margin-h=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues,Reviews,Organizations,Joined2020,Experience" alt="GitHub Trophies"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodePhyt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook,html&exclude_repo=bolt.diy" alt="Top Languages"/>
 </p>
 
 <br/>
@@ -336,19 +319,6 @@ const codephyt: DeveloperProfile = {
 
 ---
 
-<!-- 3D Contribution Snake -->
-## 🐍 Contribution Matrix Visualization
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodePhyt/CodePhyt/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodePhyt/CodePhyt/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodePhyt/CodePhyt/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/><br/>
-
----
-
 <!-- Strategic Focus Mindmap -->
 ## 🎯 Current Strategic Focus
 
@@ -417,16 +387,6 @@ mindmap
 
 ---
 
-<!-- Recent Activity -->
-## 📈 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br/>
-
----
-
 <!-- Organization & Community -->
 ## 🏢 Organizations & Community
 
@@ -469,17 +429,6 @@ mindmap
   <a href="mailto:osmankadir@codephyt.com">
     <img src="https://img.shields.io/badge/📧_Email_Contact-00D9FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
   </a>
-</p>
-
-<br/>
-
----
-
-<!-- Coding Time Stats -->
-## ⚡ Development Time Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CodePhyt&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" alt="WakaTime Stats"/>
 </p>
 
 <br/>
