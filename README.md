@@ -212,7 +212,7 @@ const codephyt: DeveloperProfile = {
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=CodePhyt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&rank_icon=github" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=CodePhyt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=CodePhyt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
