@@ -202,6 +202,19 @@ const CODEPHYT = {
 
 > **💡 Development Philosophy**: AI-Native Developer Since 2022  
 > *Aggressively leveraging the entire AI ecosystem - from coding assistants to agentic frameworks, RAG systems, and ML models - for every aspect of development*
+> 
+> **🌍 Open Source for Humanity**: Passionate advocate and active contributor to open source technology. Believing that open source AI and tools will democratize development and save the world by making powerful technology accessible to everyone.
+
+---
+
+### 🌟 Open Source AI Models (Champion)
+![Llama](https://img.shields.io/badge/Llama_3.3-70B_Local-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral_7B/22B-Active-FF7000?style=flat-square&logo=mistral&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek_R1/V3-Expert-000000?style=flat-square&logo=deepseek&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen_2.5-Deployed-FF6B6B?style=flat-square&logo=alibaba&logoColor=white)
+![Phi](https://img.shields.io/badge/Phi--4-Edge_Deployment-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma_2-Local-4285F4?style=flat-square&logo=google&logoColor=white)
+![Code Llama](https://img.shields.io/badge/Code_Llama-Coding-0467DF?style=flat-square&logo=meta&logoColor=white)
 
 ---
 
