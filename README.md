@@ -259,6 +259,8 @@ const CODEPHYT = {
   <img width="49%" src="https://streak-stats.demolab.com?user=CodePhyt&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak"/>
 </p>
 
+<br/>
+
 <p align="center">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodePhyt&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook,html&exclude_repo=bolt.diy" alt="Top Languages"/>
 </p>
