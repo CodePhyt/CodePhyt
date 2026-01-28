@@ -200,10 +200,25 @@ const CODEPHYT = {
 
 <br/>
 
-> **💡 Development Philosophy**: AI-Native Developer Since 2022  
-> *Aggressively leveraging the entire AI ecosystem - from coding assistants to agentic frameworks, RAG systems, and ML models - for every aspect of development*
+> **⚡ Bleeding-Edge Tech Chaser**: Aggressively tracking and adopting the latest AI tools, frameworks, and models **daily** since 2022  
+> *From coding assistants to agentic frameworks, RAG systems, and LLMs - if it's released, I'm already building with it*
 > 
-> **🌍 Open Source for Humanity**: Passionate advocate and active contributor to open source technology. Believing that open source AI and tools will democratize development and save the world by making powerful technology accessible to everyone.
+> **🛡️ Security-First Innovation**: Actively hardening emerging technologies (e.g., fixing Clawdbot security vulnerabilities) and building production-ready systems from bleeding-edge tools
+>
+> **🌍 Open Source Robin Hood Developer**: On a mission to democratize technology for humanity  
+> *Building low-cost, accessible solutions powered by open-source LLMs to replace expensive proprietary apps*  
+> *Focused on serving underserved communities worldwide - Africa, Somalia, and beyond*  
+> 
+> **💡 Core Belief**: Open source AI will save the world by making powerful technology accessible to everyone in need
+
+---
+
+### 🎯 Current Focus
+
+**🛡️ Security Hardening**: Fixing critical security vulnerabilities in newly released AI tools (e.g., Clawdbot)  
+**📱 Mobile OSS LLM Systems**: Building mobile applications powered by open-source language models  
+**💰 Disrupting Paywalls**: Creating free, accessible alternatives to expensive proprietary apps  
+**🌍 Global Accessibility**: Developing solutions specifically for underserved communities in Africa, Somalia, and developing regions
 
 ---
 
