@@ -200,18 +200,48 @@ const CODEPHYT = {
 
 <br/>
 
-> **💡 Development Philosophy**: AI-Augmented Coding Since 2022  
-> *Leveraging AI assistants (Claude, Gemini, GPT-4) as primary development partners for learning, coding, and architectural decisions*
+> **💡 Development Philosophy**: AI-Native Developer Since 2022  
+> *Aggressively leveraging the entire AI ecosystem - from coding assistants to agentic frameworks, RAG systems, and ML models - for every aspect of development*
 
 ---
 
-### 🤖 AI Development Tools (Primary Workflow)
+### 🤖 AI Coding Assistants & IDEs (Daily Drivers)
+![Cursor](https://img.shields.io/badge/Cursor_AI-Primary_IDE-000000?style=flat-square&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf_IDE-Active-00D9FF?style=flat-square&logo=code&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro_IDE-Production-FFB454?style=flat-square&logo=code&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Expert-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_3.5-Expert-9F7AEA?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5-Expert-4285F4?style=flat-square&logo=google&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/GPT--4-Expert-412991?style=flat-square&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-Daily_Driver-000000?style=flat-square&logo=cursor&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity_CLI-Expert-00D9FF?style=flat-square&logo=terminal&logoColor=white)
+![Cline](https://img.shields.io/badge/Cline-Active-FF6B6B?style=flat-square&logo=terminal&logoColor=white)
+![Roo Code](https://img.shields.io/badge/Roo_Code-Active-4CAF50?style=flat-square&logo=code&logoColor=white)
+![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-Expert-00D9FF?style=flat-square&logo=terminal&logoColor=white)
+
+### 🧠 AI Models & APIs (Power User)
+![Claude](https://img.shields.io/badge/Claude_3.5_Sonnet-Expert-9F7AEA?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-Expert-4285F4?style=flat-square&logo=google&logoColor=white)
+![GPT-4](https://img.shields.io/badge/GPT--4_Turbo-Expert-412991?style=flat-square&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek_V3-Integrated-000000?style=flat-square&logo=ai&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama_3.3-Local_Deployment-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral_Large-Integrated-FF7000?style=flat-square&logo=mistral&logoColor=white)
+
+### 🏗️ Agentic Frameworks & RAG Systems
+![LangChain](https://img.shields.io/badge/LangChain-Production-121212?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-1C3C3C?style=flat-square&logo=graph&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG_Expert-8B5CF6?style=flat-square&logo=databricks&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-Agent_Systems-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-FF6B35?style=flat-square&logo=robot&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-Orchestration-5E5CE6?style=flat-square&logo=dotnet&logoColor=white)
+
+### 🤗 Hugging Face Ecosystem
+![Transformers](https://img.shields.io/badge/Transformers-Expert-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Datasets](https://img.shields.io/badge/Datasets-Active-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Spaces](https://img.shields.io/badge/Spaces-Deployed-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Inference API](https://img.shields.io/badge/Inference_API-Integrated-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### ☁️ AI Cloud Platforms & Services
+![OpenAI Platform](https://img.shields.io/badge/OpenAI_Platform-Production-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic Console](https://img.shields.io/badge/Anthropic_Console-Active-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-Active-4285F4?style=flat-square&logo=google&logoColor=white)
+![Replicate](https://img.shields.io/badge/Replicate-Model_Deployment-000000?style=flat-square&logo=replicate&logoColor=white)
+![Together AI](https://img.shields.io/badge/Together_AI-Inference-FF6B6B?style=flat-square&logo=ai&logoColor=white)
 
 ### 💻 Programming Languages (AI-Assisted)
 ![JavaScript](https://img.shields.io/badge/JavaScript-AI--Assisted-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
