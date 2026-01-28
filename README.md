@@ -200,50 +200,63 @@ const CODEPHYT = {
 
 <br/>
 
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Advanced-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-Advanced-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-Advanced-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-Learning-000000?style=flat-square&logo=rust&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-Proficient-0175C2?style=flat-square&logo=dart&logoColor=white)
+> **💡 Development Philosophy**: AI-Augmented Coding Since 2022  
+> *Leveraging AI assistants (Claude, Gemini, GPT-4) as primary development partners for learning, coding, and architectural decisions*
 
-### Frontend Frameworks & Libraries
-![React](https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-Expert-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-Expert-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-Proficient-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-Advanced-764ABC?style=flat-square&logo=redux&logoColor=white)
+---
 
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-Expert-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-Proficient-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-Advanced-000000?style=flat-square&logo=flask&logoColor=white)
+### 🤖 AI Development Tools (Primary Workflow)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-Expert-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_3.5-Expert-9F7AEA?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_2.5-Expert-4285F4?style=flat-square&logo=google&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/GPT--4-Expert-412991?style=flat-square&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-Daily_Driver-000000?style=flat-square&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity_CLI-Expert-00D9FF?style=flat-square&logo=terminal&logoColor=white)
 
-### Databases & Storage
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-Proficient-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-Advanced-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Advanced-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+### 💻 Programming Languages (AI-Assisted)
+![JavaScript](https://img.shields.io/badge/JavaScript-AI--Assisted-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-AI--Assisted-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-AI--Assisted-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Learning_w/_AI-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-Fundamentals-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-Fundamentals-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Proficient-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Advanced-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Proficient-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+### ⚛️ Frontend Frameworks & Libraries
+![React](https://img.shields.io/badge/React-AI--Assisted-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-AI--Assisted-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-AI--Assisted-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-Working_Knowledge-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-AI--Assisted-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-### AI/ML & Automation
-![LangChain](https://img.shields.io/badge/LangChain-Advanced-121212?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-Expert-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-Advanced-000000?style=flat-square&logo=anthropic&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Advanced-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+### 🔧 Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-AI--Assisted-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-AI--Assisted-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Working_Knowledge-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Working_Knowledge-000000?style=flat-square&logo=flask&logoColor=white)
+
+### 🗄️ Databases & Storage
+![Supabase](https://img.shields.io/badge/Supabase-AI--Assisted-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-AI--Assisted-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Working_Knowledge-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Working_Knowledge-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-AI--Assisted-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Daily_Use-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-AI--Assisted-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-Deployment-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-Deployment-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+### 🧠 AI/ML Frameworks & Tools
+![LangChain](https://img.shields.io/badge/LangChain-Working_Knowledge-121212?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-Integrated-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-Integrated-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-Expert-FF6B6B?style=flat-square&logo=ChatGPT&logoColor=white)
+
+### 🎨 Design & Productivity
+![Figma](https://img.shields.io/badge/Figma-UI_Design-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-Documentation-000000?style=flat-square&logo=notion&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Primary_IDE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </details>
 
