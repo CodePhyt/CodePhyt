@@ -227,6 +227,17 @@ const CODEPHYT = {
 ![Roo Code](https://img.shields.io/badge/Roo_Code-Active-4CAF50?style=flat-square&logo=code&logoColor=white)
 ![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-Expert-00D9FF?style=flat-square&logo=terminal&logoColor=white)
 
+### 🚀 Emerging AI Dev Tools & No-Code (2022+ Innovations)
+![OpenCode](https://img.shields.io/badge/OpenCode-AI_IDE-6366F1?style=flat-square&logo=code&logoColor=white)
+![Zenflow](https://img.shields.io/badge/Zenflow-Workflow-8B5CF6?style=flat-square&logo=flow&logoColor=white)
+![Neo](https://img.shields.io/badge/Neo-AI_Assistant-10B981?style=flat-square&logo=ai&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-No--Code-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Aion UI](https://img.shields.io/badge/Aion_UI-AI_Design-FF6B9D?style=flat-square&logo=ui&logoColor=white)
+![Pinokio](https://img.shields.io/badge/Pinokio-AI_Browser-FF6B35?style=flat-square&logo=browser&logoColor=white)
+![Bolt.new](https://img.shields.io/badge/Bolt.new-AI_Stack-000000?style=flat-square&logo=bolt&logoColor=white)
+![v0.dev](https://img.shields.io/badge/v0.dev-UI_Generation-000000?style=flat-square&logo=vercel&logoColor=white)
+![Lovable](https://img.shields.io/badge/Lovable-AI_Apps-FF1744?style=flat-square&logo=heart&logoColor=white)
+
 ### 🧠 AI Models & APIs (Power User)
 ![Claude](https://img.shields.io/badge/Claude_3.5_Sonnet-Expert-9F7AEA?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-Expert-4285F4?style=flat-square&logo=google&logoColor=white)
